@@ -1,0 +1,58 @@
+body {
+    background-image: url(cartoon-funny-bubbles-set.jpg);
+}
+
+#lock1img {
+    width: 30px;
+    height: 30px;
+}
+
+#p1div {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 5px 5px;
+    background-color: white;
+}
+
+#bigbtn {
+    opacity: 0.3;
+    width: 300px;
+    height: 90px;
+    font-size: 40px;
+    color: azure;
+    background-color: lightcoral;
+}
+
+#player1_nameinp, #player2_nameinp {
+    width: 175px;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#numDiv
+{
+background: white;
+border-radius: 10px;
+border: 10px solid aquamarine;
+border-style:dashed;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-right: 200px;
+margin-left: 200px;
+
+}
+
+h1 {
+    color: black;
+}
+
+
